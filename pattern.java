@@ -1,3 +1,4 @@
+//made changes by me because of GIT second commit
 import java.io.*;
 public class PatternProgram{
 public static void main (String args[]){
